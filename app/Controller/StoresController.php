@@ -235,8 +235,7 @@ public function logout() {
                                             $sc_2 = $articoli['ubicazione_destino'];
                                             break;
                                 case "SCR-AS":
-                                            //scarico i pezzi selezionati dalla tabella (test_mov.php)..
-                                            //e l'ID ordine?
+                                            //scarico i pezzi selezionati dalla tabella
                                             $qta  = $articoli['qta'];
                                             $sc_1 = $articoli['ubicazione_destino'];
                                             $sc_2 ='';
