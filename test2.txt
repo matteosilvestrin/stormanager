@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 modifica 1109
 modifica 1116
 modifica 1118
@@ -5,3 +6,13 @@ modifica 1126
 modifica 1730
 asddjlahfjlsfhlsv
 modifica teo 1742
+=======
+aaaaaaaaaa
+aaaa
+
+ssss
+dsfihsduoh
+
+
+ddsd
+>>>>>>> origin/master
