@@ -217,54 +217,62 @@ public function logout() {
 				$tot_salva=array();
 				  foreach($art['articoli'] as $articoli){
 					  $salva=array();
-					  			//se è rettifica inventariale scrivo le regole di rettifica
-								if($art['causale']=='RET-IN'){
-									   if($articoli['ubicazione_destino']==$articoli['ubicazione_partenza']){
-									   $qta = $articoli['qta']-$articoli['giacenza'];
-									   }
-									   else{
-										$qta =  $articoli['qta'];
-										   }
-									   $sc_1 = $articoli['ubicazione_destino'];
-									   $sc_2 = '';
-					   					}
-								elseif($art['causale']=='TRASFR'){
-									   $qta = $articoli['qta'];
-									   $sc_1 = $articoli['ubicazione_partenza'];
-									   $sc_2 = $articoli['ubicazione_destino'];
-					   					}
-								else{
-									  $qta = $articoli['qta'];
-									  $sc_1 = $articoli['ubicazione_destino'];
-									  $sc_2 ='';
-								 }//fine if rettifica  inventariale
-					   $salva['CBM_CAUSALE'] = $art['causale'];
-					   $salva['CBM_DATA'] = '';
-						$salva['CBM_ARTICOLO'] = $articoli['codice'];
-						$salva['CBM_QTY'] = $qta;
-						$salva['CBM_MAGAZZINO1'] = $art['magaz_partenza'];
-						$salva['CBM_SCOMPARTO1'] = $sc_1;
-						$salva['CBM_MAGAZZINO2'] = $art['magaz_destino'];
-						$salva['CBM_SCOMPARTO2'] = $sc_2;
-						$salva['CBM_BARCODE'] = '';
-						$salva['CBM_ORDINE'] = '';
-						$salva['CBM_ELABORATO'] = '';
-						$salva['CBM_UTENTE'] = $sess['User']['username'];
-					 $tot_salva[] =$salva;
+
+                        switch($art['causale']){
+                                case "RET-IN":
+                                            //se è rettifica inventariale scrivo le regole di rettifica
+                                            if($articoli['ubicazione_destino']==$articoli['ubicazione_partenza']){
+                                                   $qta = $articoli['qta']-$articoli['giacenza'];
+                                                   }else{
+                                                   $qta =  $articoli['qta'];
+                                                   }
+                                                   $sc_1 = $articoli['ubicazione_destino'];
+                                                   $sc_2 = '';
+                                            break;
+                                case "TRASFR":
+                                            $qta  = $articoli['qta'];
+                                            $sc_1 = $articoli['ubicazione_partenza'];
+                                            $sc_2 = $articoli['ubicazione_destino'];
+                                            break;
+                                case "SCR-AS":
+                                            //scarico i pezzi selezionati dalla tabella
+                                            $qta  = $articoli['qta'];
+                                            $sc_1 = $articoli['ubicazione_destino'];
+                                            $sc_2 ='';
+                                            break;
+                                default:
+                                            $qta  = $articoli['qta'];
+                                            $sc_1 = $articoli['ubicazione_destino'];
+                                            $sc_2 ='';
+                                            break;
+                        }//switch
+
+                        $salva['CBM_CAUSALE']   = $art['causale'];
+                        $salva['CBM_DATA']      = '';
+                        $salva['CBM_ARTICOLO']  = $articoli['codice'];
+                        $salva['CBM_QTY']       = $qta;
+                        $salva['CBM_MAGAZZINO1'] = $art['magaz_partenza'];
+                        $salva['CBM_SCOMPARTO1'] = $sc_1;
+                        $salva['CBM_MAGAZZINO2'] = $art['magaz_destino'];
+                        $salva['CBM_SCOMPARTO2'] = $sc_2;
+                        $salva['CBM_BARCODE']   = '';
+                        $salva['CBM_ORDINE']    = '';
+                        $salva['CBM_ELABORATO'] = '';
+                        $salva['CBM_UTENTE']    = $sess['User']['username'];
+                        $tot_salva[]            = $salva;
 					  }//fine foreach
 
 				// print_r($tot_salva); //debug
 				$eam =	$this->Store->scrivimovimento($tot_salva);
 				if($eam){
 					$this->Session->setFlash(__('Movimento Salvato'), 'notifiche/gun_success');
-				          $this->redirect(array('action' => 'index'));
-					}
-					else{
-						$this->Session->setFlash(__('Problemi nel salvataggio'), 'notifiche/gun_danger');
-				          $this->redirect(array('action' => 'carrello'));
-						}
-			}
-		}
+				    $this->redirect(array('action' => 'index'));
+					}else{
+					$this->Session->setFlash(__('Problemi nel salvataggio'), 'notifiche/gun_danger');
+				    $this->redirect(array('action' => 'carrello'));
+					}//$eam
+			}//post
+		}//scrivieam
 
 	//funzione rettifica inventariale
 	public function rettifica_inventariale() {
