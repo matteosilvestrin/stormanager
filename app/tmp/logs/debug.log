@@ -1,0 +1,2202 @@
+2015-07-07 16:11:52 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:11:53 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:11:54 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:11:55 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:11:56 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:13:28 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:13:29 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:13:30 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:13:31 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:13:32 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:13:34 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:13:35 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:13:36 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:15:23 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:15:24 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:15:25 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:15:26 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:15:27 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:23:45 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:23:46 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:23:47 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:23:48 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:23:49 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:24:23 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:24:24 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:24:25 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:24:26 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:24:28 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:24:46 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:24:47 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:24:48 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:24:49 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:24:50 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:24:59 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:25:01 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:25:02 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:25:03 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:25:04 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:26:33 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:26:35 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:26:36 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:26:37 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:26:38 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:29:16 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:29:18 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:29:19 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:29:20 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:29:21 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:39:59 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:40:00 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:40:01 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:40:03 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:40:04 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:44:00 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:44:01 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:44:02 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:44:03 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 16:44:04 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:02:52 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:02:53 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:02:54 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:02:55 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:02:56 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:03:52 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:03:53 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:03:55 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:03:56 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:03:57 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:08:53 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:08:54 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:08:55 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:08:56 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:08:57 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:10:30 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:10:31 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:10:33 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:10:34 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:10:35 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:10:36 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 31]
+Trace:
+include - APP\View\Users\index.ctp, line 31
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:15:52 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:15:54 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:15:55 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:15:56 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:15:57 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:16:06 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:16:08 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:16:09 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:16:10 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:16:11 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:34:03 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:34:04 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:34:05 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:34:06 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:34:08 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:36:03 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:36:08 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:36:10 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:36:11 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:36:12 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:37:11 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:37:22 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:37:23 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:37:24 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:37:25 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:38:38 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:38:41 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:38:51 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:38:56 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:38:57 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:38:58 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:38:59 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:39:01 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:39:06 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:39:07 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:39:09 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:39:10 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:40:03 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:40:09 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:40:10 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:40:11 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:40:12 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:41:58 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 17:42:00 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:10:21 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:10:24 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:10:37 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:12:20 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:12:23 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:15:57 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:16:00 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:16:20 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:16:24 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:16:26 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:21:23 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:23:08 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:31:23 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:31:26 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:35:52 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:35:55 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:36:42 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:36:45 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:40:19 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:40:22 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:41:37 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:41:40 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:41:46 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:42:44 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:42:47 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:52:00 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:52:02 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:52:45 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:52:48 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:53:09 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:53:12 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:53:26 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:53:27 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:53:30 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:53:34 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:53:37 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:54:21 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:54:24 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:54:33 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:55:33 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:55:36 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:55:59 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:59:46 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 18:59:49 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:00:07 Debug: Notice (8): Undefined index: password in [C:\wamp\www\networkpro\app\Model\User.php, line 30]
+Trace:
+User::beforeSave() - APP\Model\User.php, line 30
+CakeEventManager::dispatch() - CORE\Cake\Event\CakeEventManager.php, line 241
+Model::_doSave() - CORE\Cake\Model\Model.php, line 1859
+Model::save() - CORE\Cake\Model\Model.php, line 1751
+UsersController::edit() - APP\Controller\UsersController.php, line 138
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:00:08 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:16:47 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:16:59 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:18:36 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 32]
+Trace:
+include - APP\View\Users\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:27:34 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:28:01 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:28:30 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:28:44 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:30:32 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:42:45 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:46:02 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:46:20 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:46:45 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:46:48 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:48:11 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:56:17 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:56:19 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 19:56:48 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 20:05:22 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-07 20:05:25 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-08 07:13:30 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-08 07:13:33 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-08 07:13:59 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-08 07:14:02 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-08 07:21:25 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-08 07:21:28 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-08 07:25:57 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-08 07:25:58 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-08 09:13:54 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-08 09:13:58 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-08 09:14:08 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-07-08 09:14:11 Debug: Notice (8): Undefined index: telefono in [C:\wamp\www\networkpro\app\View\Users\index.ctp, line 34]
+Trace:
+include - APP\View\Users\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+

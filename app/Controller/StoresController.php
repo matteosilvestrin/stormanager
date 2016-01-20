@@ -346,7 +346,49 @@ public function logout() {
            */
         }//ordine_aftersales
 
-
+    
+    //funzione di associazione barcode
+   public function associa_barcode(){
+       $this->layout = 'skorpio';
+       $sess= CakeSession::read('Auth');
+       //ricerco un pezzo:
+       if ($this->request->is('post')) {
+			  if(!empty($this->request->data['Store']['code'])){
+			  $eam =	$this->Store->cercatutti(array('codice'=>$this->request->data['Store']['code']));
+			  if(!empty($eam)){
+					$this->set('eam', $eam);
+					}
+					else{
+						$this->Session->setFlash(__('Articolo non trovato'), 'notifiche/gun_danger');
+						}
+			  }// fine if ricerca pezzo
+           //se ho il codice barcode procedo al salvataggio eam
+           if(!empty($this->request->data['Store']['sendbrc'])){
+               $salva=array();
+                    $salva['CBM_CAUSALE']   =  $this->request->data['Store']['causale'];
+                    $salva['CBM_DATA']      = '';
+                    $salva['CBM_ARTICOLO']  = $this->request->data['Store']['codice'];
+                    $salva['CBM_QTY']       = 0;
+                    $salva['CBM_MAGAZZINO1'] = '';
+                    $salva['CBM_SCOMPARTO1'] = '';
+                    $salva['CBM_MAGAZZINO2'] = '';
+                    $salva['CBM_SCOMPARTO2'] = '';
+                    $salva['CBM_BARCODE']   = $this->request->data['Store']['sendbrc'];
+                    $salva['CBM_ORDINE']    = '';
+                    $salva['CBM_ELABORATO'] = '';
+                    $salva['CBM_UTENTE']    = $sess['User']['username'];
+                    $tot_salva            = array($salva);
+               
+               $eam =	$this->Store->scrivimovimento($tot_salva);
+				if($eam){
+                        $this->Session->setFlash(__('Movimento Salvato'), 'notifiche/gun_success');
+                        $this->redirect(array('action' => 'index'));
+					}else{
+					   $this->Session->setFlash(__('Problemi nel salvataggio'), 'notifiche/gun_danger');				    
+					}//$eam
+            }//fine if send barcode           
+		  }//fine post
+   }// fine barcode
 
 
 /**

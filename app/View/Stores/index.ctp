@@ -43,6 +43,18 @@ echo $this->Form->end('Ordine da aftersales');
 ?>
 
 <?php
+//------------------------------------------------  ASSOCIA BARCODE --------------------------------
+echo $this->Form->create(null, array('url' => array('controller' => 'stores', 'action' => 'associa_barcode'),
+												'inputDefaults' => array('label'=>false, 'div'=>false),
+												'id'=>'form_associa_barcode',
+												'name' =>'form_associa_barcode'
+												)
+											);
+echo $this->Form->input('causale', array('type'=>'hidden', 'value'=>'ASS-BC'));
+echo $this->Form->end('Associa Barcode');
+?>
+
+<?php
  //------------------------------------------------  VERIFICA PEZZO --------------------------------
  echo $this->Form->create(null, array('url' => array('controller' => 'stores', 'action' => 'verifica_pezzo'),
 											'inputDefaults' => array(
