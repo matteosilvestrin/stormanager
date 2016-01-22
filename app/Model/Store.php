@@ -48,7 +48,20 @@ if(empty($risu)){
    //--carico i dettagli di un ordine ($order_num)
    public function dettagli_ordine_aftersales($order_num=null){
                      $myquery = "";
-                     $myquery .= " select ";
+
+	   	   			 $myquery .= " select ";
+                     $myquery .= " PREVENTIVO_ID, ";
+					 $myquery .= " DESCRIZIONE as descrizione, ";
+                     $myquery .= " COD_ARTICOLO as codice, ";
+                     $myquery .= " QTY as qta, ";
+                     $myquery .= " DATA_CONSEGNA, ";
+                     $myquery .= " UBICAZIONE  as ubicazione ";
+                     $myquery .= " from CUST_BC_ARTICOLI_AFS";
+                     $myquery .= " where PREVENTIVO_ID = '".$order_num."' ";
+
+
+	   /*
+	   				$myquery .= " select ";
                      $myquery .= " AFS_PREVENTIVI.ID, DESCRIZIONE, TIPO_SPEDIZIONE,  ";
                      $myquery .= " COD_ARTICOLO as codice, ";
                      $myquery .= " QTY as qta, ";
@@ -57,17 +70,9 @@ if(empty($risu)){
                      $myquery .= " BIS_BIN as ubicazione ";
                      $myquery .= " from AFS_PREVENTIVI left join AFS_PREVENTIVI_RELATIONSHIP on  AFS_PREVENTIVI.ID = AFS_PREVENTIVI_RELATIONSHIP.PREVENTIVO_ID ";
                      $myquery .= " JOIN R5PARTS ON COD_ARTICOLO COLLATE LATIN1_GENERAL_BIN = PAR_CODE ";
-                     $myquery .= " LEFT JOIN R5BINSTOCK ON PAR_CODE = BIS_PART ";
+                     $myquery .= " LEFT JOIN R5BINSTOCK ON PAR_CODE = BIS_PART and BIS_STORE = 'MC' ";
                      $myquery .= " where AFS_PREVENTIVI.ID = '".$order_num."' ";
-
-                     /*
-                     $myquery = "";
-                     $myquery .= " select AFS_PREVENTIVI.ID, DESCRIZIONE, TIPO_SPEDIZIONE, COD_ARTICOLO, QTY, DATA_CONSEGNA ";
-                     $myquery .= " from AFS_PREVENTIVI ";
-                     $myquery .= " left join AFS_PREVENTIVI_RELATIONSHIP on  AFS_PREVENTIVI.ID = AFS_PREVENTIVI_RELATIONSHIP.PREVENTIVO_ID ";
-                     $myquery .= " where AFS_PREVENTIVI.ID = '".$order_num."' ";
-                     */
-
+	*/
                      $output = $this->dbeamselect($myquery);
                      return $output;
                      }//dettagli_ordine_aftersales
