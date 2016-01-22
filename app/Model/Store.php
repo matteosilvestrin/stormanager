@@ -59,20 +59,6 @@ if(empty($risu)){
                      $myquery .= " from CUST_BC_ARTICOLI_AFS";
                      $myquery .= " where PREVENTIVO_ID = '".$order_num."' ";
 
-
-	   /*
-	   				$myquery .= " select ";
-                     $myquery .= " AFS_PREVENTIVI.ID, DESCRIZIONE, TIPO_SPEDIZIONE,  ";
-                     $myquery .= " COD_ARTICOLO as codice, ";
-                     $myquery .= " QTY as qta, ";
-                     $myquery .= " DATA_CONSEGNA, ";
-                     $myquery .= " PAR_DESC as descrizione, ";
-                     $myquery .= " BIS_BIN as ubicazione ";
-                     $myquery .= " from AFS_PREVENTIVI left join AFS_PREVENTIVI_RELATIONSHIP on  AFS_PREVENTIVI.ID = AFS_PREVENTIVI_RELATIONSHIP.PREVENTIVO_ID ";
-                     $myquery .= " JOIN R5PARTS ON COD_ARTICOLO COLLATE LATIN1_GENERAL_BIN = PAR_CODE ";
-                     $myquery .= " LEFT JOIN R5BINSTOCK ON PAR_CODE = BIS_PART and BIS_STORE = 'MC' ";
-                     $myquery .= " where AFS_PREVENTIVI.ID = '".$order_num."' ";
-	*/
                      $output = $this->dbeamselect($myquery);
                      return $output;
                      }//dettagli_ordine_aftersales
@@ -181,7 +167,7 @@ function dbeaminsert($myquery){
 				die('Something went wrong while connecting to MSSQL');
 			}
 			 $conn_act =  mssql_select_db($conn['db'],$link);
-       $result    = mssql_query($myquery) or die("Errori nella query:".$myquery.' '.mssql_get_last_message());
+       $result = @mssql_query($myquery) or die("Errori nella query:".$myquery.' '.mssql_get_last_message());
 
        return $result;
 }//dbeaminsert
