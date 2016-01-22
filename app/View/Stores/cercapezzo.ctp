@@ -34,7 +34,9 @@ if(!empty($eam)){
 			<table>
 				<tr><td class='row_head'>Cod.:</td><td><?php echo $eam[0]['ARTICOLO']; ?></td></tr>
 				<tr><td class='row_head'>Dsc.:</td><td><?php echo htmlspecialchars($eam[0]['DESCRIZIONE']); ?></td></tr>
-				<tr><td class='row_head'>Giac.:</td><td><?php echo $eam[0]['QTA']; ?></td></tr>
+				<?php if($causale!='SCR-AS'){ ?>
+					<tr><td class='row_head'>Giac.:</td><td><?php echo $eam[0]['QTA']; ?></td></tr>
+				<?php } ?>
 				<tr><td class='row_head'>Qta:</td><td><?php echo $this->Form->input('qta', array('id'=>'qta', 'size'=>'5px', 'value'=>$qta_ordine_afs, 'onchange'=>'formValid()')); ?></td></tr>
 				<tr><td class='row_head'>Mag.:</td><td><?php
 				if(!empty($magaz_destino)){
@@ -43,7 +45,9 @@ if(!empty($eam)){
 				  	echo $magaz_partenza;
 					}//magaz_destino ?>
 			  		</td></tr>
-               <tr><td class='row_head'>Ubic.:</td><td><?php echo $this->Form->input('ubicazione_destino', array('id'=>'ubicazione_destino', 'size'=>'10px', 'value'=>$eam[0]['SCOMPARTO'], 'onchange'=>'checkUbicazione()')); ?></td></tr>
+               <tr>
+               		<td class='row_head'>Ubic.:</td>
+               		<td><?php echo $this->Form->input('ubicazione_destino', array('id'=>'ubicazione_destino', 'size'=>'10px', 'value'=>$eam[0]['SCOMPARTO'], 'onchange'=>'checkUbicazione()')); ?></td></tr>
 			</table>
 			<?php echo $this->Form->end('Avanti'); ?>
 
