@@ -10,23 +10,22 @@ echo $this->Form->create(null, array('url' => array('controller' => 'stores', 'a
 										);
 echo $this->Form->input('code', array('id'=>'code', 'onChange'=>'loadDoc()'));
 echo $this->Form->input('magazzino', array('type'=>'hidden', 'value'=>$magazzini['magaz_partenza']));
-
 echo $this->Form->end();
 ?>
 
-
     <? if(!empty($articoli)){ ?>
         <table>
-            <tr>
-                <td class="row_head">Cod</td>
-                <td class="row_head">Dscr</td>
-                <td class="row_head">Qt</td>
-                <td class="row_head">Ubc</td>
-                <?php if(($causale=='TRASFR') || ($causale=='RET-IN')){ ?>
-                <td class="row_head"></td>
-                <?php } ?>
-            </tr>
-    <?php $i=0;
+		<tr>
+			<td class="row_head">Cod</td>
+			<td class="row_head">Dscr</td>
+			<td class="row_head">Qt</td>
+			<td class="row_head">Ubc</td>
+			<?php if(($causale=='TRASFR') || ($causale=='RET-IN')){ ?>
+				<td class="row_head"></td>
+			<?php } ?>
+		</tr>
+
+       <?php $i=0;
 	   foreach($articoli as $key=>$val){
 				$elimina = $this->Form->postLink(__('Elimina'), array('action' => 'delete', $key), null, __('Sicuro di eliminare #%s?', $val['codice']));
 				$i++; ?>
