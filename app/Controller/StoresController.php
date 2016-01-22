@@ -47,12 +47,12 @@ public function logout() {
 
             //preparo la sessione quando scelgo causale
 				 if(!empty($causale)){
-                    $causale = $this->request->data['Store']['causale'];
-        			  	  $this->Session->write('Carrello.causale',         $this->request->data['Store']['causale']);
-   				     $this->Session->write('Carrello.magaz_partenza',  $this->request->data['Store']['magaz_partenza']);
-   				     $this->Session->write('Carrello.magaz_destino',   $this->request->data['Store']['magaz_destino']);
-                    if($causale!='SCR-AS'){   $this->Session->write('Carrello.articoli', array());   }
-   					 }//fine causale
+                    	$causale = $this->request->data['Store']['causale'];
+        				$this->Session->write('Carrello.causale',         $this->request->data['Store']['causale']);
+   				    	$this->Session->write('Carrello.magaz_partenza',  $this->request->data['Store']['magaz_partenza']);
+						$this->Session->write('Carrello.magaz_destino',   $this->request->data['Store']['magaz_destino']);
+                    	if($causale!='SCR-AS'){   $this->Session->write('Carrello.articoli', array());   }
+   						}//fine causale
 
             //--in base alla CASUALE faccio un'operazione piuttosto che altro...
             switch($causale){
@@ -68,14 +68,15 @@ public function logout() {
 
                                        //--imposto le quantità (e le quantità ordinate nell'ordine)
                                        for($i=0; $i < count($arts); $i++){
-                                                   $arts[$i]['qta_ord']    = $arts[$i]['qta'];
-                                                   $arts[$i]['qta']        = 0;
+                                                   $arts[$i]['qta_ord']    			= $arts[$i]['qta'];
+                                                   $arts[$i]['qta']        			= 0;
+										   		   $arts[$i]['ubicazione_destino'] 	= $arts[$i]['ubicazione'];
                                                    }//for
                                        }//count
 
                                  $this->Session->write('Carrello.articoli', $arts);
                                  $this->Session->write('Carrello.causale', $causale);
-                                 $this->set('order_num', $this->request->data['Store']['order_num']);
+								  $this->Session->write('Carrello.cbm_ordine', $order_num);//-n.ordine
                                  $this->set('articoli', $arts);
                                  }//order_num
 
@@ -91,7 +92,6 @@ public function logout() {
 
                                  $this->Session->write('Carrello.articoli', $arts);
                                  $this->Session->write('Carrello.causale', $causale);
-                                 //$this->set('order_num', $order_num);
                                  $this->set('articoli', $arts);
                                  }//codice
                               break;
@@ -216,7 +216,8 @@ public function logout() {
 			$art = $this->Session->read('Carrello');
 				$tot_salva=array();
 				  foreach($art['articoli'] as $articoli){
-					  $salva=array();
+					  $salva 		= array();
+					  $cbm_ordine 	= '';
 
                         switch($art['causale']){
                                 case "RET-IN":
@@ -238,7 +239,8 @@ public function logout() {
                                             //scarico i pezzi selezionati dalla tabella
                                             $qta  = $articoli['qta'];
                                             $sc_1 = $articoli['ubicazione_destino'];
-                                            $sc_2 ='';
+                                            $sc_2 = '';
+											$cbm_ordine = $art['cbm_ordine'];
                                             break;
                                 default:
                                             $qta  = $articoli['qta'];
@@ -256,7 +258,7 @@ public function logout() {
                         $salva['CBM_MAGAZZINO2'] = $art['magaz_destino'];
                         $salva['CBM_SCOMPARTO2'] = $sc_2;
                         $salva['CBM_BARCODE']   = '';
-                        $salva['CBM_ORDINE']    = '';
+                        $salva['CBM_ORDINE']    = $cbm_ordine;
                         $salva['CBM_ELABORATO'] = '';
                         $salva['CBM_UTENTE']    = $sess['User']['username'];
                         $tot_salva[]            = $salva;
@@ -331,19 +333,6 @@ public function logout() {
             $this->set('order_num', $this->request->data['Store']['order_num']);
             }//order_num
          }//post
-
-          /*
-   		 if($this->request->is('post')) {
-   			 if(!empty($this->request->data['Store']['order_code'])){
-             $eam =	$this->Store->cercatutti(array('codice'=>$this->request->data['Store']['code']));
-   			 if(!empty($eam)){
-   					$this->set('eam', $eam);
-   					}else{
-   					$this->Session->setFlash(__('Articolo non trovato'), 'notifiche/gun_danger');
-   					}
-   			  }// fine if ricerca
-   		  }//fine post
-           */
         }//ordine_aftersales
 
     
